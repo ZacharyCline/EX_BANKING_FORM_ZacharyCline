@@ -1,0 +1,25 @@
+h1 {
+	color: black;
+	text-align: left;
+	padding-left: 140px;
+}
+form {
+	background-color: grey;
+	font-family: Verdana; 
+	font-weight: bold;
+	border: 2px solid black;
+	padding: 10px 50px;
+	margin-right: 200px;
+	color: white;
+	text-shadow: 2px 1px black;
+	margin-left: 100px;
+
+}
+body {
+	background-color: white;
+}
+#comments {
+	margin-right: 200px;
+	padding: 10px 50px;
+
+}
